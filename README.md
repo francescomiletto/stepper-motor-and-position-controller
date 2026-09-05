@@ -40,4 +40,4 @@ Un sistema di puntamento di precisione basato su motore passo-passo, gestito da 
 
 ## 🔌 Media & Resources / Materiale e Documentazione
 * **Schema Elettrico / Schematic:** <img width="1070" height="589" alt="Schema Elettrico" src="https://github.com/user-attachments/assets/af590064-4bb8-4d16-96ce-7c8695e96d39" />
-* **Video Dimostrativo / Demo Video:** [Link al video su YouTube]
+* **Video Dimostrativo / Demo Video:** [Youtube Link](https://youtu.be/m-TcSr9rEfk)
